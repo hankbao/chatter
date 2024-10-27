@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* This file is for your main application CSS */
+#message-list {
+  border: 1px solid #777;
+  height: 400px;
+  padding: 10px;
+  overflow: scroll;
+  margin-bottom: 50px;
+}
